@@ -1,1 +1,1 @@
-# Customer-Churn-Prediction
+# Capstone - Customer-Churn-Prediction
